@@ -2,7 +2,7 @@
     "threadCount": 500,
     "displayErrors": false,
     "isLooped": false,
-    "webhookUrl": "",
+    "webhookUrl": "https://discord.com/api/webhooks/849692700105506826/-kXuf07FGUR5STeXB18Zv1svP4YxPaIVJUC_zdZCjjgSeT3s_eMYYmUFI2sAvyB0wMOP",
     "minMemberCount": 0,
     "range": {
         "min": 5000000,
